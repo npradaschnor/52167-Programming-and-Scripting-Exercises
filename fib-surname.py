@@ -1,6 +1,7 @@
 # Noa P Prada Schnor W1 and W2 Exercises
 
-#Week 1 Exercise- Fibonacci
+#Week 1 Exercise
+# Fibonacci (https://en.wikipedia.org/wiki/Fibonacci_number)
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
