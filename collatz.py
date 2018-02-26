@@ -1,4 +1,4 @@
-#Noa Prada Schnor 28-02-06
+#Noa Prada Schnor 2018-02-06
 #Collatz Conjecture (https://en.wikipedia.org/wiki/Collatz_conjecture)
 #Week 3 Exercise
 
