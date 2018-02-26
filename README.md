@@ -1,6 +1,6 @@
 # 52167-Programming and Scripting module exercises
 
-_Problem sets and the project for Programming and Scripting Module_
+:notebook:_Problem sets and the project for Programming and Scripting Module_
 
 *Week 1 and Week 2 Exercises in a single file named "fib-surname.py"
 
