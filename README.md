@@ -13,5 +13,5 @@ _Description: In the video lectures we discussed the Collatz conjecture. Complet
 :three: **Week 5** Exercise 4 - Project Euler Problem 5 -solution created by me "ProjEulerProblem5.py":open_file_folder:
 _Description: It is problem 5 from Project Euler. The problem is as follows. 2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. Write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20. Add your answer to your GitHub repository. https://projecteuler.net/problem=5_
 
-:four: **Week 6** Exercise 5 - Open file and format output file "openfile.py" :open_file_folder:
+:four: **Week 6** Exercise 5 - Open file and format output file "openfile.py"  :open_file_folder: and "openfileV2.py" :open_file_folder:
 _Description: Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format. That is, on the screen should be printed the petal length, petal width, sepal length and sepal width, and these values should have the decimal places aligned, with a space between the columns._
