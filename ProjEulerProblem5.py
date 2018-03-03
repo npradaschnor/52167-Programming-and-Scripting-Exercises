@@ -6,7 +6,7 @@ f = 2520 #number that I need to find out
 
 while i < 21: #while the number of my created list is <=20
   if f % i == 0: #f must be an even number
-   i = i + 1 #every time the loop happens it must increase the number that I need to find out
+   i = i + 1
   else:
     n=n+1
     i=2
