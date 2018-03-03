@@ -11,4 +11,4 @@ while i < 21: #while the number of my created list is <=20
     n=n+1
     i=2
 
-  print(f) #smallest positive number that is evenly divisible by all of the numbers from 1 to 20
+  print('The smallest positive number that is evenly divisible by all of the numbers from 1 to 20 is:',f) 
