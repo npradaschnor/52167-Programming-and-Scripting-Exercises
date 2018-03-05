@@ -22,7 +22,7 @@ print("The factorial of number 7 is:",factorial(7))
 print("The factorial of number 10 is:",factorial(10))
 
 #shortcut
-from math import factorial #shortcut with no need to create a defining function
+from math import factorial #shortcut with no need to create a def function
 
 print("The factorial of number 5 is:",factorial(5))
 print("The factorial of number 7 is:",factorial(7))
