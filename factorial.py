@@ -25,5 +25,3 @@ from math import factorial #shortcut with no need to create a defining function
 print(factorial(5))
 print(factorial(7))
 print(factorial(10))
-
-
