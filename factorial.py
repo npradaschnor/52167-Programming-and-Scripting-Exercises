@@ -7,9 +7,13 @@ def factorial(i):
         i = i - 1
     return number
 print(factorial(5))
+print(factorial(7))
+print(factorial(10))
 
 from math import factorial
 print(factorial(5))
+print(factorial(7))
+print(factorial(10))
 
 
 def factorial(integer):
@@ -17,3 +21,5 @@ def factorial(integer):
         return 1
     return integer * factorial(integer - 1)
 print(factorial(5))
+print(factorial(7))
+print(factorial(10))
